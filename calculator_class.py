@@ -1,4 +1,4 @@
-class Calculator:
+fclass Calculator:
     def add(self, x, y):
         return x + y
     
