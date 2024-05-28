@@ -14,3 +14,4 @@ def group_anagrams(words):
 words = ["eat", "tea", "tan", "ate", "nat", "bat"]
 grouped_anagrams = group_anagrams(words)
 print(grouped_anagrams)
+# program ended
